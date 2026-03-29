@@ -111,7 +111,7 @@ Deque allows insertion and deletion from **both ends**.
 # Project Structure
 
 ```
-GraphiQueue
+Queue Graphics
 │
 ├── src
 │   └── all_queue.cpp
