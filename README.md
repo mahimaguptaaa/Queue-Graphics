@@ -1,6 +1,6 @@
-# GraphiQueue
+# Queue Graphics
 
-GraphiQueue is a **visual learning project** that demonstrates multiple **Queue Data Structures using C++ graphics**.
+Queue Graphics is a **visual learning project** that demonstrates multiple **Queue Data Structures using C++ graphics**.
 It combines **console explanations** with **graphical visualization** to make learning queue operations easier and more interactive.
 
 This project is especially useful for **Data Structures students and beginners**.
@@ -186,7 +186,4 @@ It is useful for:
 Visualization helps make abstract concepts easier to understand.
 
 ---
-
-# Author
-
-GraphiQueue – A C++ Graphics Project for Visualizing Queue Data Structures.
+Queue Graphics – A C++ Graphics Project for Visualizing Queue Data Structures.
